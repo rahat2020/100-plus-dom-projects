@@ -3,7 +3,8 @@
 It's look like a `udemy` course buying cart section
 
 Where some courses are organize with the title,instructor,price & rating
-![alt text](/examples/course_buying_cart/img/courses.png "Course Card Add Button")
+![alt text](/examples/course_buying_cart
+/img/courses.png "Course Card Add Button")
 Student can buy this course from here thats he/she wants and click the `ADD TO CART` button
 
 All the selected carts will be found in top of right corner, click the cart icon and see
